@@ -274,7 +274,7 @@ class uimain(QMainWindow):
         self.ui.actionAdd_Tab.triggered.connect(self.add)
         self.ui.actionSave_as_Ctrl_S.triggered.connect(self.file_saveas)
         self.ui.actionSave_Ctrl_S.triggered.connect(self.file_save)
-        self.ui.statusbar.showMessage("Pycos Visual | Folody Studio")
+        self.ui.statusbar.showMessage("Pycos Visual | ConrED Studio")
         self.ui.tabWidget.currentIndex()
         self.ui.tabWidget.tabCloseRequested.connect(self.close_tab)
         self.ui.pushButton_6.clicked.connect(self.close)

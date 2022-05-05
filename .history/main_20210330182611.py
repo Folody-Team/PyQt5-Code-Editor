@@ -1826,7 +1826,7 @@ class Ui_MainWindow(object):
         _translate = QtCore.QCoreApplication.translate
         MainWindow.setWindowTitle(_translate("MainWindow", "MainWindow"))
         self.pushButton_8.setText(_translate("MainWindow", "PushButton"))
-        self.label_8.setText(_translate("MainWindow", "<html><head/><body><p><span style=\" font-size:9pt; color:#325b67;\">PYCOS VISUAL | FOLODY STUDIO</span></p></body></html>"))
+        self.label_8.setText(_translate("MainWindow", "<html><head/><body><p><span style=\" font-size:9pt; color:#325b67;\">PYCOS VISUAL | CONRED STUDIO</span></p></body></html>"))
         self.pushButton_32.setText(_translate("MainWindow", "ACCOUNT"))
         self.label_7.setText(_translate("MainWindow", "LEFT BOX"))
         self.pushButton_39.setText(_translate("MainWindow", "X"))
